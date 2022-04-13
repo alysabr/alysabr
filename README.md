@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alysabr
+- 👀 I’m interested in ... Scripting for Adobe & Maya
+- 🌱 I’m currently learning ... Python & Javascript
+- 📫 How to reach me ... @alysabr on LinkedIn :)
